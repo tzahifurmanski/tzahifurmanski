@@ -1,12 +1,13 @@
 <h1 align="center">Hi, I'm Tzahi 👋</h1>
 
-<br />
-
 <h3 align="center">Software Engineer · Engineering Leader</h3>
 
 <p align="center">
 Empowering enterprises to develop fast while staying secure.
 </>
+
+
+<br />
 
 <br />
 
